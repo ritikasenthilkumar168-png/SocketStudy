@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-Name: Ritika S
-Reg no: 212225220086
+# Name: Ritika S
+# Reg no: 212225220086
 ## Aim: 
 To implement a program on Socket Programming
 ## Introduction:
